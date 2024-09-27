@@ -6,24 +6,21 @@ My name is Ngô Anh Tuấn, a budding yet fervent Data Engineer. I hope you disc
 ## How to reach me
 <p>
   <p>
-    <img width="32" height="32" src="https://img.icons8.com/fluency/32/linkedin.png" alt="linkedin"/>
-    <span">&nbsp;&nbsp;</span>
-    <a href="https://www.linkedin.com/in/anh-tuan-ngo-4bab102a3/" target="_blank">Anh Tuan Ngo</a>
+    <strong>LinkedIn:</strong>
+    <span>&nbsp;</span>
+    <a href="https://www.linkedin.com/in/anh-tuan-ngo-4bab102a3/" target="_blank">Anh Tuan Ngo</a>  
   </p>
-  
   <p>
-    <img width="32" height="32" src="https://img.icons8.com/dusk/32/facebook-new--v2.png" alt="facebook-new--v2"/>
-    <span">&nbsp;&nbsp;</span>
+    <strong>Facebook:</strong>
+    <span>&nbsp;</span>
     <a href="https://www.facebook.com/ngoanhtuan1101/" alt="Facebook">Ngô Tuấn</a>
+  </p>
   <p>
-  
-  <p>
-    <img width="32" height="32" src="https://img.icons8.com/doodle/32/youtube-play--v2.png" alt="youtube-play--v2"/>
-    <span">&nbsp;&nbsp;</span>
+    <strong>Youtube:</strong>
+    <span>&nbsp;</span>
     <a href="https://www.youtube.com/@tuanit03" alt="Youtube channel" target="_blank">Tuấn Học Data</a>
-  <p>
+  </p>
 </p>
-<br>
 
 ## Skills
 <p>
@@ -60,6 +57,7 @@ My name is Ngô Anh Tuấn, a budding yet fervent Data Engineer. I hope you disc
     <span style="color:green">Linux</span>
 </p>
 
+## Overview
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/uvipen/QuickDraw/">
