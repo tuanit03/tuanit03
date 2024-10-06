@@ -64,16 +64,17 @@ My name is Ngô Anh Tuấn, a budding yet fervent Data Engineer. I hope you disc
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuanit03&repo=Building_Data_Pipelines&theme=radical" />
 </a>    
-<a href="https://github.com/tuanit03/HOG_features">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuanit03&repo=HOG_features&theme=merko" />
-</a>
 
 <a href="https://github.com/tuanit03/Multinomial_Naive_Bayes">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuanit03&repo=Multinomial_Naive_Bayes&theme=gruvbox" />
 </a>    
+<a href="https://github.com/tuanit03/HOG_features">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuanit03&repo=HOG_features&theme=dark" />
+</a>
+
 <a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=merko" />
 </a>
