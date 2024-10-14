@@ -65,16 +65,18 @@ My name is Ngô Anh Tuấn, a budding yet fervent Data Engineer. I hope you disc
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuanit03&repo=Building_Data_Pipelines&theme=buefy" />
 </a>    
 
-<a href="https://github.com/tuanit03/Multinomial_Naive_Bayes">
+<a href="https://github.com/tuanit03/Building_ML_Pipelines">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuanit03&repo=Multinomial_Naive_Bayes&theme=buefy" />
-</a>    
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuanit03&repo=Building_ML_Pipelines&theme=buefy" />
+</a>
+
 <a href="https://github.com/tuanit03/HOG_features">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuanit03&repo=HOG_features&theme=buefy" />
 </a>
 
-<a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
+<a href="https://github.com/tuanit03/Multinomial_Naive_Bayes">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=buefy" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuanit03&repo=Multinomial_Naive_Bayes&theme=buefy" />
+</a>    
+
